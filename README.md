@@ -1,6 +1,30 @@
 # Ecommerce-Project
-Full Stack Ecommerce Project built by using React and Spring Boot.
+Technologies: React, Spring Boot
 <br><br>
+
+## 📌 Project Overview  
+A full-stack e-commerce platform built with **React** (frontend) and **Spring Boot** (backend). This project implements:  
+
+### 🔒 Security Features  
+- **JWT Token Authentication**  
+- **OAuth2 Client Integration** (Google login)  
+- **Role-Based Access Control** (Admin/Customer roles)  
+- **Two-Factor Authentication (2FA)** for enhanced security  
+
+### 🛍️ Core Functionalities  
+- User registration/login with email verification  
+- Product catalog with dynamic display  
+- Shopping cart (add/remove items)  
+- Order processing system  
+- Admin dashboard for product/user management  
+
+### 🗃️ Database  
+- MySQL for storing:  
+  - User profiles  
+  - Product inventory  
+  - Order history  
+
+<br>
 
 ## Entity Relationship Diagram 
 
