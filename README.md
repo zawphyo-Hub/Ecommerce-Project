@@ -9,7 +9,7 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 - **JWT Token Authentication**  
 - **OAuth2 Client Integration** (Google login)  
 - **Role-Based Access Control** (Admin/Customer roles)  
-- **Two-Factor Authentication (2FA)** for enhanced security  
+- **Two-Factor Authentication (2FA)** with TOTP  
 
 ### 🛍️ Core Functionalities  
 - User registration/login  
