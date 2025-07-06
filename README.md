@@ -17,7 +17,6 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 - Shopping cart (add/remove items)  
 - Order processing system  
 - Admin dashboard for product/user management  
-
 <br>
 
 ## Entity Relationship Diagram 
