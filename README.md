@@ -12,7 +12,7 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 - **Two-Factor Authentication (2FA)** for enhanced security  
 
 ### 🛍️ Core Functionalities  
-- User registration/login with email verification  
+- User registration/login  
 - Product catalog with dynamic display  
 - Shopping cart (add/remove items)  
 - Order processing system  
@@ -20,9 +20,9 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 
 ### 🗃️ Database  
 - MySQL for storing:  
-  - User profiles  
+  - User information 
   - Product inventory  
-  - Order history  
+  - Order detail  
 
 <br>
 
