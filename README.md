@@ -18,12 +18,6 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 - Order processing system  
 - Admin dashboard for product/user management  
 
-### 🗃️ Database  
-- MySQL for storing:  
-  - User information 
-  - Product inventory  
-  - Order detail  
-
 <br>
 
 ## Entity Relationship Diagram 
