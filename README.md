@@ -21,12 +21,14 @@ A full-stack e-commerce platform built with **React** (frontend) and **Spring Bo
 
 ## Entity Relationship Diagram 
 
-![E-Commerce(Full Stack) drawio (1)](https://github.com/user-attachments/assets/f4860201-3f1c-466a-a240-810e48c47f66)
+<img width="671" height="445" alt="E-Commerce(Full Stack) drawio" src="https://github.com/user-attachments/assets/9fc14936-e988-460e-948d-bb5453ef99f6" />
+
 <br><br>
 
 ## Class Diagram
 
-![E-Commerce(Full Stack) drawio (2)](https://github.com/user-attachments/assets/fd033e19-1f01-406d-87b2-f87c88427990)
+<img width="695" height="843" alt="E-Commerce(Full Stack) drawio (1)" src="https://github.com/user-attachments/assets/914ce850-308b-490a-a491-a91b3f63cac2" />
+
 
 <br><br>
 
